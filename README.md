@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yuvisingh9530/Leet-Code/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yuvisingh9530/Leet-Code/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/yuvisingh9530/Leet-Code/tree/master/2469-convert-the-temperature) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yuvisingh9530/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
