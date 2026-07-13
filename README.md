@@ -17,8 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/yuvisingh9530/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yuvisingh9530/Leet-Code/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/yuvisingh9530/Leet-Code/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yuvisingh9530/Leet-Code/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/yuvisingh9530/Leet-Code/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
