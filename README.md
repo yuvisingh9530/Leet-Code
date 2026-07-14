@@ -156,4 +156,8 @@ GitHub: https://github.com/yuvisingh9530
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yuvisingh9530/Leet-Code/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/yuvisingh9530/Leet-Code/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
